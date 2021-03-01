@@ -1,6 +1,7 @@
 Lab 05 - Nobel laureates
 ================
 
+<<<<<<< HEAD
 Team Name: T4
 
 Team Members - Name and Student ID
@@ -9,6 +10,19 @@ Team Members - Name and Student ID
 2.  
 3.  
 4.  
+=======
+Team Name:T3
+
+Team Members - Name and Student ID
+
+1.FATIMAH 2201002709
+
+2.Amsha 2201000180
+
+3.Fatimah 2201002369 - Shahad 2201001400
+
+4.ghadah 2201002590
+>>>>>>> 47d7845b2ef1e88b9ee40961d4deb1adcc438425
 
 ## Packages
 
